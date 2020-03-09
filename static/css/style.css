@@ -1,0 +1,13 @@
+h1 {
+    background: #efefff;
+    padding: 10px;
+}
+h4 {
+    color: #ccc;
+    padding: 10px 0 20px 20px;
+}
+.mars_label {
+    background: url(../img/MARS-2-7.png) no-repeat;
+    background-size: contain;
+    padding-left: 120px;
+}
